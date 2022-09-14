@@ -27,7 +27,7 @@
 </head>
 <body BGCOLOR="#F74F4F">
 <br/><br/>
-    <h1 align="center">Hola Hijueputa</h1><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <h1 align="center">Hola Bienvenido</h1><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
     <form action="inicio.php" method="post" align="center">
         usuario:
